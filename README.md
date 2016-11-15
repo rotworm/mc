@@ -1,2 +1,2 @@
 # mc
-Collection of Tibia MCs.
+Collection of Open Tibia Server MCs.
